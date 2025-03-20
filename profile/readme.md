@@ -16,7 +16,7 @@ We are SHUTS (**S**ota**HU**n**T**er**S**) MM Lab, a collaborative research grou
 ## 🗒️ Research List
 
 | name                                                         | description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [DPC](https://arxiv.org/abs/2503.13443) <a href='https://github.com/JREion/DPC'><img src='https://img.shields.io/github/stars/JREion/DPC?style=social' /></a> | [CVPR 2025] Official PyTorch Code for "DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models" |
 | [PolarNeXt](https://github.com/Sun15194/PolarNeXt) <a href='https://github.com/Sun15194/PolarNeXt'><img src='https://img.shields.io/github/stars/Sun15194/PolarNeXt?style=social' /></a> | [CVPR 2025] PolarNeXt: Rethink Instance Segmentation with Polar Representation |
 
