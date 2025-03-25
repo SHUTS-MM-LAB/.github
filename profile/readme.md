@@ -10,7 +10,7 @@ We are SHUTS (**S**ota**HU**n**T**er**S**) MM Lab, a collaborative research grou
 - LLM intelligent agents
 
 ## 🔥 Recent News
-- (21 Mar. 2025) Haoyang Li's paper (**MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models**) is accepted by ICME 2025!
+- (21 Mar. 2025) Haoyang Li's paper ([**MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models**](https://arxiv.org/abs/2503.18160)) is accepted by ICME 2025!
 - (20 Mar. 2025) Jiacheng Sun's paper (**PolarNeXt: Rethink Instance Segmentation with Polar Representation**) is accepted by CVPR 2025!
 - (18 Mar. 2025) Haoyang Li's paper ([**DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**](https://arxiv.org/abs/2503.13443)) is accepted by CVPR 2025!
 
@@ -19,5 +19,5 @@ We are SHUTS (**S**ota**HU**n**T**er**S**) MM Lab, a collaborative research grou
 | name                                                         | description                                                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [DPC](https://arxiv.org/abs/2503.13443) <a href='https://github.com/JREion/DPC'><img src='https://img.shields.io/github/stars/JREion/DPC?style=social' /></a> | [CVPR 2025] Official PyTorch Code for "DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models" |
-| [M.A.O](https://github.com/JREion/M.A.O) <a href='https://github.com/JREion/M.A.O'><img src='https://img.shields.io/github/stars/JREion/M.A.O?style=social' /></a> | [ICME 2025] Official PyTorch Code for "MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models" |
+| [M.A.O](https://arxiv.org/abs/2503.18160) <a href='https://github.com/JREion/M.A.O'><img src='https://img.shields.io/github/stars/JREion/M.A.O?style=social' /></a> | [ICME 2025] Official PyTorch Code for "MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models" |
 | <nobr>[PolarNeXt](https://github.com/Sun15194/PolarNeXt) <a href='https://github.com/Sun15194/PolarNeXt'><img src='https://img.shields.io/github/stars/Sun15194/PolarNeXt?style=social' /></a></nobr> | [CVPR 2025] PolarNeXt: Rethink Instance Segmentation with Polar Representation |
