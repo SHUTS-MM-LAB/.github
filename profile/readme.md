@@ -11,7 +11,7 @@ We are SHUTS (**S**ota**HU**n**T**er**S**) MM Lab, a collaborative research grou
 
 ## 🔥 Recent News
 - (21 Mar. 2025) Haoyang Li's paper ([**MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models**](https://arxiv.org/abs/2503.18160)) is accepted by ICME 2025!
-- (20 Mar. 2025) Jiacheng Sun's paper (**PolarNeXt: Rethink Instance Segmentation with Polar Representation**) is accepted by CVPR 2025!
+- (20 Mar. 2025) Jiacheng Sun's paper ([**PolarNeXt: Rethink Instance Segmentation with Polar Representation**](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_PolarNeXt_Rethink_Instance_Segmentation_with_Polar_Representation_CVPR_2025_paper.html)) is accepted by CVPR 2025!
 - (18 Mar. 2025) Haoyang Li's paper ([**DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**](https://arxiv.org/abs/2503.13443)) is accepted by CVPR 2025!
 
 ## 🗒️ Research List
