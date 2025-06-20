@@ -1,3 +1,6 @@
+<div align="center">
+	<img src="pics/SHUTS_LOGO.png" alt="fail" width="30%"">
+</div>   
 # SotaHUnTerS Multi-Modal Lab
 
 > _Chivalrous hunters, chasing SOTAs._
