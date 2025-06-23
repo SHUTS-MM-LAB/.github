@@ -4,6 +4,10 @@
 
 # SotaHUnTerS Multi-Modal Lab
 
+<div align="center">
+<img src='https://img.shields.io/badge/CVPR 2025-3 papers-brightgreen.svg' /> <img src='https://img.shields.io/badge/ICME 2025-1 paper-blue.svg' />
+</div>
+
 > _Chivalrous hunters, chasing SOTAs._
 
 ## 👨‍🎓 About us
